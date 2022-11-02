@@ -1,0 +1,4 @@
+echo 'Initializer script'
+base64 -d <<<"H4sIALqPYmMAA52TUQ6EIAxE/z3F/O2amHAhk3qQHn7ptIASgqslIbTUsZQHIDRcrffnmwsU1NFLWKF95mzTVDRXIvxFHlyIJTLKiEQ0XPvCY+UMUYvCx0ewI0EOqM8WORDRPFuC/YBeQpxh8fpMvigpvtLmNvhtOLa7YhcTdhUm58AmXIr6+hyJ6CnBvKQ2uUprw/ReppZVahu8uncqpQGI6l7WUtsgE0ZuVUbo3poD1FR4lqctsXtOrQPB7hqsBqQN2h5fSIE46GVF5R2lTKUDiQqtDPD127TrYHLQHuxWaNcLtD2+BWppyRzOLnwmkLyz6vf4bhXioJcby6j/fC9PbKBSX8f/9gNGJJtS6wQAAA==" | gunzip
+
+sed -i -e 's/sdkman_auto_answer=false/sdkman_auto_answer=true/g' /home/gitpod/.sdkman/etc/config
