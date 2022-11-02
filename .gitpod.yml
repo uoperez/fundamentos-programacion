@@ -5,4 +5,4 @@ tasks:
     before: chmod +rwx initScript.sh
     command: ./initScript.sh \
              && sdk update
-             && sdk install java 19-open \
+             && sdk install java 19-open
