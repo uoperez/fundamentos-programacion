@@ -16,6 +16,7 @@ En este entorno usted encontrará las siguientes herramientas:
 
 
 ### Indicaciones generales:
+Antes de continuar es necesario que tenga registrado su usuario en [GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Trate de usar su cuenta de correo institucional.
 
 Para arrancar el entorno debe hacer clic en el siguiente botón:
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/MAD-UTPL-TI/fundamentos-programacion.git)
